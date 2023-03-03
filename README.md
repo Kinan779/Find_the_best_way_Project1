@@ -1,7 +1,7 @@
 # Find_the_best_way_Project
  A student's journey home 
 
-A student's return home I came out after you attended my practical lecture intelligent search algorithms, a Dear student of the college,
+A student's return home: you came out after you attended a practical lecture intelligent search algorithms,  Dear student ,of the college,
 happy To your house, and since the lecture ended at half past two a I went to the door of your main concern, I was going It was rush hour,
 the traffic was heavy, it seemed a Too long to wait for a ride The bus will be long,
 on the bus the trip will be tiring because you are probably a And even if I could find you a place . 
